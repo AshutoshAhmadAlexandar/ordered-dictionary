@@ -1,6 +1,6 @@
-# Class 11: Advanced OOP
+# Advanced OOP
 
-Your job is to implement the current `OrderedDict`. The recommended way to create it is to keep two synched lists. One containing the keys and the other the values. Example:
+Our job is to implement the current `OrderedDict`. The recommended way to create it is to keep two synched lists. One containing the keys and the other the values. Example:
 
 ```python
 d = {
